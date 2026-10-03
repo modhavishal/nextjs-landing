@@ -2,7 +2,7 @@
 
 A modern, responsive SaaS landing page built with Next.js (App Router), React, TypeScript and Tailwind CSS.
 
-**Live demo:** https://YOUR-VERCEL-LINK.vercel.app
+**Live demo:** https://nextjs-landing-lime.vercel.app/
 
 ## Screenshots
 
@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000 in your browser.
+Open https://nextjs-landing-lime.vercel.app/ in your browser.
 
 ## Available Scripts
 
