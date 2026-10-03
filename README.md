@@ -6,9 +6,10 @@ A modern, responsive SaaS landing page built with Next.js (App Router), React, T
 
 ## Screenshots
 
-<img src="docs/home.png" width="800" alt="forma landing page, light theme" />
-<img src="docs/dark.png" width="800" alt="forma landing page, dark theme" />
-<img src="docs/mobile.png" width="300" alt="forma landing page on mobile" />
+<img width="1908" height="898" alt="Screenshot 2026-10-03 141956" src="https://github.com/user-attachments/assets/4181d66a-7bbe-45ff-8f7a-38b94ba1ddd4" />
+<img width="621" height="890" alt="Screenshot 2026-10-03 142034" src="https://github.com/user-attachments/assets/6dab5e51-f9f7-43a1-94ca-eded8d40effd" />
+<img width="1896" height="903" alt="Screenshot 2026-10-03 142011" src="https://github.com/user-attachments/assets/92b9df82-893d-4f5a-9499-a09a84ea0682" />
+
 
 ## Features
 
